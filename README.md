@@ -5,7 +5,7 @@ An AI-powered Applicant Tracking System (ATS) that automatically analyzes resume
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-app-name.streamlit.app
+🔗 https://resumesanalyser.streamlit.app/
 
 ---
 
@@ -49,8 +49,4 @@ An AI-powered Applicant Tracking System (ATS) that automatically analyzes resume
 - **Data Handling:** Pandas  
 - **Visualization:** Matplotlib  
 
----
 
-## 📁 Live link to access my page
-
-https://resumesanalyser.streamlit.app/
